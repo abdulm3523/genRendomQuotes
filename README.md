@@ -8,7 +8,7 @@ This project is a simple Quote Generator built using pure JavaScript, HTML, and 
 𝗣𝘂𝗿𝗲 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁: No external libraries or frameworks are used; everything is implemented with vanilla JavaScript and DOM manipulation.<br>
 
 # Demo
-Check out the live demo of the project: Quote Generator Demo <br>
+Check out the live [demo](https://genrandomquote.netlify.app/) of the project: Quote Generator <br>
 
 # How It Works
 The app stores a list of quotes in a JavaScript array. When the "Generate Quote" button is clicked, a random quote is selected from the array and displayed on the screen. The "Copy to Clipboard" functionality is implemented using the navigator.clipboard.writeText method.<br>
